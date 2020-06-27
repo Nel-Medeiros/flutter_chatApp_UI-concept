@@ -29,7 +29,7 @@ Flutter Chat UI Concept
   </a>
 </p>
 
-<div>
+<div align="center">
   <img src="https://i.ibb.co/zXtS8X9/flutter-chat-code-Gif.gif" alt="Flutter-UI-Chat-Code-Gif" height="425" width="620">
   <img src="https://i.ibb.co/n0YNvJg/flutter-ui-chat.gif" alt="Flutter-UI-Chat-Mobile-Gif" height="425">
 </div>
